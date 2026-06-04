@@ -2,7 +2,7 @@
 
 
 
-\## Project Overview
+**Project Overview**
 
 This project analyzes global YouTube channel statistics to identify factors influencing:
 
