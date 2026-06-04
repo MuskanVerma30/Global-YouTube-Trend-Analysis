@@ -1,0 +1,7 @@
+requirements
+
+python
+pandas
+numpy
+matplotlib
+seaborn
